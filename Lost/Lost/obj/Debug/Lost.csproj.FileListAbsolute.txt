@@ -1,0 +1,7 @@
+C:\Users\Merlin\source\repos\Lost\Lost\bin\Debug\Lost.exe.config
+C:\Users\Merlin\source\repos\Lost\Lost\bin\Debug\Lost.exe
+C:\Users\Merlin\source\repos\Lost\Lost\bin\Debug\Lost.pdb
+C:\Users\Merlin\source\repos\Lost\Lost\obj\Debug\Lost.csprojAssemblyReference.cache
+C:\Users\Merlin\source\repos\Lost\Lost\obj\Debug\Lost.csproj.CoreCompileInputs.cache
+C:\Users\Merlin\source\repos\Lost\Lost\obj\Debug\Lost.exe
+C:\Users\Merlin\source\repos\Lost\Lost\obj\Debug\Lost.pdb
